@@ -1,6 +1,6 @@
 # keyframes
 
-![preview](/Github/preview.png)
+![preview](/Github/preview.PNG)
 
 Project built by me to train and use some acquired knowledge
 
